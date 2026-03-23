@@ -31,7 +31,7 @@ This project addresses these challenges by building an **interactive analytics p
 After deployment, the application can be accessed here:
 
 ```
-https://bank-churn-streamlit-app.streamlit.app
+https://bank-churn-analytics-app.streamlit.app/
 ```
 
 ---
